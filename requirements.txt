@@ -4,5 +4,5 @@ httpx==0.27.0
 sqlalchemy==2.0.30
 aiomysql==0.2.0
 uuid6==2024.1.12
-pydantic==2.7.1
+pydantic==2.10.6
 cryptography==42.0.5
